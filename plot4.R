@@ -1,4 +1,8 @@
 ##
+## Author: Ramesh Balasubramanian
+## Course: Exploratory Data Analysis
+##
+##
 ## installs libName if it is not already installed.
 ## if library exists, but fails to load - halts the program
 ## 
